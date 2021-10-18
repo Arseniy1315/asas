@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+body{
+    background-color: rgb(160, 255, 234);
+}
+
+.sky1{
+    float: left;
+    margin-top:335px;
+    padding: 200px;
+
+}
+.sky2{
+    
+    float: right;
+    margin: 250px;
+}
+
+div{
+    text-align: center;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+}
+
+.image{
+    vertical-align:top
+    
+}
+
+.header{
+    text-align: center;
+    font-size: 45px;
+    color: rgb(0, 121, 129); 
+    font-family: 'Sacramento', cursive;
+    
+}
+header{
+    position: fixed;
+    left: 0;
+    right: 0;
+    top:550px;
+    
+
+}
+
+p{
+    text-align: center;
+    margin: 0 auto 0 auto  ;
+    height: auto;
+    font-size: 75px;
+
+}
+
+.text{
+    position: fixed;
+    left: 0;
+    right: 0;
+    top:420px;
+    font-family: 'Sacramento', cursive;
+    color: rgb(0, 121, 129); 
+}   
